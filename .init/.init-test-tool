@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/shopease-mobile-adeb5cc0/shopping_backend"
+}
